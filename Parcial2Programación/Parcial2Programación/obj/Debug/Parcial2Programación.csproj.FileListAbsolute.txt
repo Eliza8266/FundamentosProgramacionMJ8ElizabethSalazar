@@ -1,0 +1,7 @@
+C:\Users\eliza\OneDrive\Documents\Elizabeth Salazar García\Fundamentos de Programación\Parcial2Programación\Parcial2Programación\bin\Debug\Parcial2Programación.exe.config
+C:\Users\eliza\OneDrive\Documents\Elizabeth Salazar García\Fundamentos de Programación\Parcial2Programación\Parcial2Programación\bin\Debug\Parcial2Programación.exe
+C:\Users\eliza\OneDrive\Documents\Elizabeth Salazar García\Fundamentos de Programación\Parcial2Programación\Parcial2Programación\bin\Debug\Parcial2Programación.pdb
+C:\Users\eliza\OneDrive\Documents\Elizabeth Salazar García\Fundamentos de Programación\Parcial2Programación\Parcial2Programación\obj\Debug\Parcial2Programación.csproj.AssemblyReference.cache
+C:\Users\eliza\OneDrive\Documents\Elizabeth Salazar García\Fundamentos de Programación\Parcial2Programación\Parcial2Programación\obj\Debug\Parcial2Programación.csproj.CoreCompileInputs.cache
+C:\Users\eliza\OneDrive\Documents\Elizabeth Salazar García\Fundamentos de Programación\Parcial2Programación\Parcial2Programación\obj\Debug\Parcial2Programación.exe
+C:\Users\eliza\OneDrive\Documents\Elizabeth Salazar García\Fundamentos de Programación\Parcial2Programación\Parcial2Programación\obj\Debug\Parcial2Programación.pdb
